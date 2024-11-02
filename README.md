@@ -1,3 +1,2 @@
-"# duplicate-content-tool" 
 # duplicate-content-tool
-# duplicate-content-tool
+ wordpress plugin duplicate page & article
